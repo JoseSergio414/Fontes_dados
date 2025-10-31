@@ -10,9 +10,9 @@ Mapa mental sobre o curso Gradução Gestão da Produção Industrial
 <img width="1885" height="917" alt="image" src="https://github.com/user-attachments/assets/3e060d67-40ae-4e90-8370-e7bd59dd4412" />
 
 ## Atividade 2: Ínicio das atividades no excel, fórmulas básicas criando gráfico e tabela e dinâmica, aprendendo a analisar tabelas de dados públicos do estado de são paulo
-
+Fórmula =cont.valores()
 <img width="1908" height="1025" alt="Atividades de setembro" src="https://github.com/user-attachments/assets/771cff76-0700-4ba3-95b8-6c68f356dcae" />
-
+Criando Gráfico e tabela Dinâmica
 <img width="1890" height="977" alt="Atividade_05_09_2025" src="https://github.com/user-attachments/assets/9f13979a-8aa1-4513-a22f-edd313fb674c" />
 
 ### Atividade 3:Análise de V.T.I na Planilha do Excel utilizando as fórmulas =somases, =corresp, =índice, =contvalores e =máximoses, montagem do gráfico e tabela dinâmica
