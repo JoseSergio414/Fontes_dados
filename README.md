@@ -1,5 +1,5 @@
 # Fontes_dados
-## Atividade 1: Apresentação em grupo no Canva, falando um pouco da sua vida profissional e particular e um mapa mental sobre o curso de Gestão da Produção Industrial
+## Atividade 1: Apresentação em grupo no Canva, falando um pouco da minha vida profissional e particular e um mapa mental sobre o que eu acho do curso de Gestão da Produção Industrial
 Vida profissional
 <img width="1153" height="648" alt="Captura de tela 2025-10-31 004630" src="https://github.com/user-attachments/assets/f5655317-ff3f-4d8c-a483-582b36336d52" />
 Meta de vida
