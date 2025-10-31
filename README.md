@@ -33,9 +33,13 @@ https://github.com/user-attachments/assets/361fb010-ea24-4be0-bfd9-f13c99ca9c83
 <img width="1913" height="1043" alt="Dashbord Estados24_10" src="https://github.com/user-attachments/assets/d98f946c-4891-4b34-b93a-66039724d059" />
 
 ##### Ativiadde 5: Criando e aplicando a fórmula (=somase) no Excel, e criando um Dashbord no Power bi aplicando fórmulas 'DAX' do POWER BI, Nova coluna CALCULADORA(CALCULATE(sum(VLFob[VALORR]), FILTER(VLFob,VLFob[cidade]="ATIBAIA")), Nova coluna VARIACAOVLFob2003_2005 = Calculate(SUM(VLFob[valor]), FILTER(VLFob,VLFob[Cidade]=EARLIER(Geral[Cidade]))), Nova medida VFOBCidade = CALCULATE(SUM(VLFob[Valor]),ALLEXCEPT(VLFob, VLFob[Cidade])), criando duas novas colunas na planilha que foi importada do Excel e uma nova medidada 
+Criando a tabela de valores
 <img width="978" height="1030" alt="=somase" src="https://github.com/user-attachments/assets/97701308-f6b1-4cad-83c5-08f8360a0328" />
+Criando a tabela e aplicando a fórmula =somase()
 <img width="969" height="1020" alt="Tabela" src="https://github.com/user-attachments/assets/db62edf0-1bd3-4667-8ee2-244a3a9594a5" />
+Fórmula SOMASE NO EXCEL
 <img width="1299" height="1027" alt="Excel_somase_23_10" src="https://github.com/user-attachments/assets/b7d6f7d3-8b2a-4d2c-aa4c-5ade863bdea9" />
+Fórmulas DAX no POWER BI
 <img width="1911" height="1030" alt="Formúlas DAX_23-10" src="https://github.com/user-attachments/assets/e1690aeb-3334-4280-9079-7d9818bb30af" />
 
 
