@@ -26,17 +26,17 @@ Vidéos da planilha e Gráfico do excel
 https://github.com/user-attachments/assets/741bcdf8-5fd4-4a1a-ba11-c290bcffaeef
 https://github.com/user-attachments/assets/361fb010-ea24-4be0-bfd9-f13c99ca9c83
 
-#### Atividade 4: Introdução ao Power BI Criando um Dashbord com os dados de exportação do ano de 2025 do site comex stat fazendo o Link com a planilha criada no Excel com o link das imagens das bandeiras dos países, e um Dashbord de estados e uma planilha no Excel com o Link de suas bandeiras
+#### Atividade 4: Introdução ao Power BI Criando um Dashboard com os dados de exportação do ano de 2025 do site comex stat fazendo o Link com a planilha criada no Excel com o link das imagens das bandeiras dos países, e um Dashboard de estados e uma planilha no Excel com o Link de suas bandeiras
 Criando uma tabela no Excel com os links das bandeiras dos Países
 <img width="1313" height="940" alt="links_bandeiras_paises" src="https://github.com/user-attachments/assets/6d583221-e239-4efc-abd7-b250994143f6" />
-Dashbord dos dados de exportação do ano de 2025 mostrando o valor exportado para cada país e fazendo o link com a imagem da sua bandeira e sua localização no mapa
+Dashboard dos dados de exportação do ano de 2025 mostrando o valor exportado para cada país e fazendo o link com a imagem da sua bandeira e sua localização no mapa
 <img width="1902" height="1032" alt="DashboardEXP_25_17_10" src="https://github.com/user-attachments/assets/4c64b863-cb84-49e8-a75d-de4b937ef534" />
 Criando uma tabela no Excel com os links das imagens das bandeiras dos estados
 <img width="1154" height="1016" alt="Excel_link_bandeiras_estados_23_10" src="https://github.com/user-attachments/assets/fea498c5-444f-4a7b-aa98-470d2c8287f0" />
-Dashbord no POWER BI COM OS ESTADOS E SEUS VALORES EXPORTADOS E O LINK DE SUAS BANDEIRAS
+Dashboard no POWER BI COM OS ESTADOS E SEUS VALORES EXPORTADOS E O LINK DE SUAS BANDEIRAS
 <img width="1913" height="1043" alt="Dashbord Estados24_10" src="https://github.com/user-attachments/assets/d98f946c-4891-4b34-b93a-66039724d059" />
 
-##### Ativiadde 5: Criando e aplicando a fórmula (=somase) no Excel, e criando um Dashbord no Power bi aplicando fórmulas 'DAX' do POWER BI, Nova coluna CALCULADORA(CALCULATE(sum(VLFob[VALORR]), FILTER(VLFob,VLFob[cidade]="ATIBAIA")), Nova coluna VARIACAOVLFob2003_2005 = Calculate(SUM(VLFob[valor]), FILTER(VLFob,VLFob[Cidade]=EARLIER(Geral[Cidade]))), Nova medida VFOBCidade = CALCULATE(SUM(VLFob[Valor]),ALLEXCEPT(VLFob, VLFob[Cidade])), criando duas novas colunas na planilha que foi importada do Excel e uma nova medidada 
+##### Ativiadde 5: Criando e aplicando a fórmula (=somase) no Excel, e criando um Dashboard no Power bi aplicando fórmulas 'DAX' do POWER BI, Nova coluna CALCULADORA(CALCULATE(sum(VLFob[VALORR]), FILTER(VLFob,VLFob[cidade]="ATIBAIA")), Nova coluna VARIACAOVLFob2003_2005 = Calculate(SUM(VLFob[valor]), FILTER(VLFob,VLFob[Cidade]=EARLIER(Geral[Cidade]))), Nova medida VFOBCidade = CALCULATE(SUM(VLFob[Valor]),ALLEXCEPT(VLFob, VLFob[Cidade])), criando duas novas colunas na planilha que foi importada do Excel e uma nova medidada 
 Criando a tabela de valores
 <img width="969" height="1020" alt="Tabela" src="https://github.com/user-attachments/assets/db62edf0-1bd3-4667-8ee2-244a3a9594a5" />
 Criando a tabela e aplicando a fórmula =somase()
