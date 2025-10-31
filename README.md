@@ -28,6 +28,8 @@ https://github.com/user-attachments/assets/741bcdf8-5fd4-4a1a-ba11-c290bcffaeef
 https://github.com/user-attachments/assets/361fb010-ea24-4be0-bfd9-f13c99ca9c83
 
 #### Atividade 4: Introdução ao Power BI Criando um Dashbord com os dados de exportação do ano de 2025 do site comex stat fazendo o Link com a planilha criada no Excel com o link das imagens das bandeiras dos países, e um Dashbord de estados e uma planilha no Excel com o Link de suas bandeiras
+Criando uma tabela no Excel com os links das bandeiras dos Países
+<img width="1313" height="940" alt="links_bandeiras_paises" src="https://github.com/user-attachments/assets/6d583221-e239-4efc-abd7-b250994143f6" />
 Dashbord dos dados de exportação do ano de 2025 mostrando o valor exportado para cada país e fazendo o link com a imagem da sua bandeira e sua localização no mapa
 <img width="1902" height="1032" alt="DashboardEXP_25_17_10" src="https://github.com/user-attachments/assets/4c64b863-cb84-49e8-a75d-de4b937ef534" />
 Criando uma tabela no Excel com os links das imagens das bandeiras dos estados
