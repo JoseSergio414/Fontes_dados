@@ -1,6 +1,12 @@
 # Fontes_dados
-## Atividade 1: Apresentação em grupo no Canva, falando um pouco da sua vida particular
-
+## Atividade 1: Apresentação em grupo no Canva, falando um pouco da sua vida profissional e particular e um mapa mental sobre o curso de Gestão da Produção Industrial
+Vida profissional
+<img width="1153" height="648" alt="Captura de tela 2025-10-31 004630" src="https://github.com/user-attachments/assets/f5655317-ff3f-4d8c-a483-582b36336d52" />
+Meta de vida
+<img width="1204" height="635" alt="Captura de tela 2025-10-31 004700" src="https://github.com/user-attachments/assets/d0af5912-0e6d-4ec9-9451-46a19987a243" />
+Lazer
+<img width="1154" height="629" alt="Captura de tela 2025-10-31 004715" src="https://github.com/user-attachments/assets/6b60944d-c677-465b-a28f-3843131f657d" />
+Mapa mental sobre o curso Gradução Gestão da Produção Industrial
 <img width="1885" height="917" alt="image" src="https://github.com/user-attachments/assets/3e060d67-40ae-4e90-8370-e7bd59dd4412" />
 
 ## Atividade 2: Ínicio das atividades no excel, fórmulas básicas criando gráfico e tabela e dinâmica, aprendendo a analisar tabelas de dados públicos do estado de são paulo
