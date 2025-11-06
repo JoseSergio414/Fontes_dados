@@ -32,7 +32,7 @@ Criando uma tabela no Excel com os links das bandeiras dos Países
 Dashboard dos dados de exportação do ano de 2025 mostrando o valor exportado para cada país e fazendo o link com a imagem da sua bandeira e sua localização no mapa
 <img width="1902" height="1032" alt="DashboardEXP_25_17_10" src="https://github.com/user-attachments/assets/4c64b863-cb84-49e8-a75d-de4b937ef534" />
 Criando uma tabela no Excel com os links das imagens das bandeiras dos estados
-<img width="1310" height="676" alt="Captura de tela 2025-11-06 005021" src="https://github.com/user-attachments/assets/e5e5bb14-e354-4cde-b83d-7399ec08cda3" />
+<img width="1903" height="1009" alt="Captura de tela 2025-11-06 010051" src="https://github.com/user-attachments/assets/03d39282-5b89-4738-89a5-1736e79aae1a" />
 Dashboard no POWER BI COM OS ESTADOS E SEUS VALORES EXPORTADOS E O LINK DE SUAS BANDEIRAS
 <img width="1338" height="744" alt="Captura de tela 2025-11-06 005527" src="https://github.com/user-attachments/assets/f5c62e41-6a32-449b-b4a8-973a95669657" />
 
