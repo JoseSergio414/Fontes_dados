@@ -18,8 +18,6 @@ Criando Gráfico e tabela Dinâmica
 ### Atividade 3:Análise de V.T.I na Planilha do Excel utilizando as fórmulas =somases, =corresp, =índice, =contvalores e =máximoses, montagem do gráfico e tabela dinâmica
 Fórmulas
 ![Imagem do WhatsApp de 2025-09-19 à(s) 01 36 07_f1ca1148](https://github.com/user-attachments/assets/a984449c-c2ea-4169-8c47-d2cb370853d9)
-Fórmulas
-![Imagem do WhatsApp de 2025-09-19 à(s) 01 36 54_7a4d97a0](https://github.com/user-attachments/assets/c69dba2f-fc91-4211-af2f-5eec054d45ce)
 Gráfico e tabela dinâmica
 ![Imagem do WhatsApp de 2025-09-19 à(s) 01 37 34_2f852069](https://github.com/user-attachments/assets/a6b14e3c-2306-4c04-a3aa-64ddbfbb81cf)
 
