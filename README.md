@@ -70,7 +70,7 @@ Gráfico Regressão Linear utilizando o Machine learning
 
 <img width="1789" height="785" alt="Captura de tela 2025-11-28 220529" src="https://github.com/user-attachments/assets/351b0178-5bd2-4668-afdc-4eb8fe8e8be0" />
 
->Vidéo Mediana anual
+>Vídeo Mediana anual
 
 https://github.com/user-attachments/assets/bba89474-d50d-4224-bb0c-e161f8e6a9cc
 
