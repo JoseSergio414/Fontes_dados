@@ -41,10 +41,8 @@ Escolha a forma que preferir para navegar pelos conteúdos:
 ### 🟩 Módulo 1: Excel Aplicado à Análise de Dados
 Nesta etapa inicial, o foco foi entender as estruturas de dados, realizar limpezas e criar visualizações rápidas.
 
-* **[Aula 01 - Introdução e Fórmulas Básicas](https://github.com/JoseSergio414/Fontes_dados/tree/main/M%C3%B3dulo_01_Excel)**
-    * *Resumo:* Conceito de análise, PROCV, SE e formatação condicional.
-* **[Aula 02 - Tabelas Dinâmicas e Gráficos](./Módulo_01_Excel/)**
-    * *Resumo:* Criação de dashboards simples e consolidação de dados.
+* **[Atividades - Introdução e Fórmulas Básicas, Tabelas Dinâmicas e Gráficos](https://github.com/JoseSergio414/Fontes_dados/tree/main/M%C3%B3dulo_01_Excel)**
+    * *Resumo:* Conceito de análise,formulas: maximose,cont valores, corresponde, indice, formatação condicional, Criação de gráficos simples e consolidação de dados.
 
 ### 🟦 Módulo 2: Python e Google Colab
 
