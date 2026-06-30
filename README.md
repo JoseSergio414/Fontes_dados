@@ -3,7 +3,6 @@
 Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi criado para documentar todo o meu aprendizado prático ao longo da disciplina da faculdade, reunindo anotações, códigos, planilhas e capturas de tela das aulas.
 
 ---
-## 📂 Estrutura do Repositório
 
 ## 📂 Estrutura do Repositório
 
@@ -24,11 +23,12 @@ Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi 
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
 
-* **Microsoft Excel / Google Sheets:** Limpeza de dados, tabelas dinâmicas e fórmulas essenciais.
+* **Microsoft Excel:** Limpeza de dados, tabelas dinâmicas e fórmulas essenciais.
 * **Python:** Linguagem foco para manipulação e análise de dados.
 * **Google Colab:** Ambiente em nuvem para execução dos Notebooks Python.
-* **Bibliotecas Python:** (Ex: Pandas, NumPy, Matplotlib, Seaborn — *ajuste conforme o que usou*).
+* **Bibliotecas Python:** (Ex: Pandas).
 * **Microsoft Power BI:** Conexão de bases de dados, modelagem (DAX) e criação de dashboards interativos.
+
 ---
 
 ## 📚 Cronograma de Aulas e Conteúdos
@@ -44,13 +44,16 @@ Nesta etapa inicial, o foco foi entender as estruturas de dados, realizar limpez
     * *Resumo:* Criação de dashboards simples e consolidação de dados.
 
 ### 🟦 Módulo 2: Python e Google Colab
+
 Transição das planilhas para a programação, utilizando o Google Colab para criar análises automatizadas e gráficos mais complexos.
 
 * **[Aula 03 - Primeiros Passos no Colab](./Módulo_02_Python_Colab/)**
     * *Resumo:* Variáveis, listas e estruturas de repetição em Python.
 * **[Aula 04 - Manipulação de Dados com Pandas](./Módulo_02_Python_Colab/)**
     * *Resumo:* Importação de bases de dados (CSV/Excel) e tratamento de dados nulos.
+
 ### 🟨 Módulo 3: Business Intelligence com Power BI
+
 Foco na transformação de dados brutos em relatórios interativos e visuais dinâmicos para a tomada de decisão.
 
 * **[Aula 05 - Importação de Dados e Modelagem](./Módulo_03_Power_BI/)**
