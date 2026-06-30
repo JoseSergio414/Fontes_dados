@@ -1,6 +1,6 @@
 ## Atividade 1: Apresentação, falando um pouco da minha vida profissional e particular e um mapa mental sobre o que eu acho do curso de Gestão da Produção Industrial
 
-[![Apresentação Pessoal](https://img.shields.io/badge/VER_APRESENTAÇÃO_PESSOAL_PROFISSIONAL-E3000F?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/JoseSergio414/Fontes_dados/blob/main/M%C3%B3dulo_01_Excel/Minha%20Jornada%20Acad%C3%AAmica%20e%20Profissional.pdf)
+[![Apresentação Pessoal](https://img.shields.io/badge/VER_APRESENTAÇÃO_PESSOAL_PROFISSIONAL-E3000F?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/JoseSergio414/Fontes_dados/blob/main/M%C3%B3dulo_01_Excel/Apresenta%C3%A7%C3%A3o/Minha%20Jornada%20Acad%C3%AAmica%20e%20Profissional.pdf)
 
 ## Atividade 2: Ínicio das atividades no excel, fórmulas básicas criando gráfico e tabela e dinâmica, aprendendo a analisar tabelas de dados públicos do estado de são paulo
 
