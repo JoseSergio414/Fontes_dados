@@ -59,7 +59,7 @@ Foco na transformação de dados brutos em relatórios interativos e visuais din
 
 Transição das planilhas para a programação, utilizando o Google Colab para criar análises automatizadas e gráficos mais complexos.
 
-* **[Atividades - Primeiros Passos no Colab, Manipulação de Dados com Pandas](./Módulo_02_Python_Colab/)**
+* **[Atividades - Primeiros Passos no Colab, Manipulação de Dados com Pandas](https://github.com/JoseSergio414/Fontes_dados/tree/main/M%C3%B3dulo_03_Python_Colab)**
     * *Resumo:* Conceitos básicos de Python, Importação de bases de dados (CSV/Excel) e tratamento de dados nulos.
 
 ---
@@ -73,7 +73,7 @@ Para manter a leitura fluida, as explicações visuais e capturas de tela foram 
 ## 🛠️ Como Executar os Códigos deste Repositório
 
 1. Para os arquivos de Excel (`.xlsx`), basta fazer o download e abrir no seu leitor de planilhas.
-2. **Power BI (`.pbix`):** É necessário ter o *Power BI Desktop* instalado na sua máquina para abrir o arquivo de projeto. (Caso tenha publicado o relatório, você pode adicionar o link direto aqui).
+2. **Power BI (`.pbix`):** É necessário ter o *Power BI Desktop* instalado na sua máquina para abrir o arquivo de projeto.
 3. Para os notebooks Python (`.ipynb`), você pode:
    * Fazer o download do arquivo.
    * Acessar o [Google Colab](https://colab.research.google.com/).
