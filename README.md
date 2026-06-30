@@ -5,6 +5,8 @@ Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi 
 ---
 ## 📂 Estrutura do Repositório
 
+## 📂 Estrutura do Repositório
+
 ```text
 ├── README.md (Guia principal)
 ├── Módulo_01_Excel/
@@ -13,6 +15,9 @@ Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi 
 ├── Módulo_02_Python_Colab/
 │   ├── Notebooks/ (.ipynb das aulas)
 │   └── Imagens/
+├── Módulo_03_Power_BI/
+│   ├── Dashboards/ (Arquivos .pbix ou links)
+│   └── Imagens/ (Prints dos relatórios)
 └── PROJETO_FINAL/ (Se houver)
 ```
 ---
@@ -23,7 +28,7 @@ Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi 
 * **Python:** Linguagem foco para manipulação e análise de dados.
 * **Google Colab:** Ambiente em nuvem para execução dos Notebooks Python.
 * **Bibliotecas Python:** (Ex: Pandas, NumPy, Matplotlib, Seaborn — *ajuste conforme o que usou*).
-
+* **Microsoft Power BI:** Conexão de bases de dados, modelagem (DAX) e criação de dashboards interativos.
 ---
 
 ## 📚 Cronograma de Aulas e Conteúdos
@@ -45,7 +50,13 @@ Transição das planilhas para a programação, utilizando o Google Colab para c
     * *Resumo:* Variáveis, listas e estruturas de repetição em Python.
 * **[Aula 04 - Manipulação de Dados com Pandas](./Módulo_02_Python_Colab/)**
     * *Resumo:* Importação de bases de dados (CSV/Excel) e tratamento de dados nulos.
+### 🟨 Módulo 3: Business Intelligence com Power BI
+Foco na transformação de dados brutos em relatórios interativos e visuais dinâmicos para a tomada de decisão.
 
+* **[Aula 05 - Importação de Dados e Modelagem](./Módulo_03_Power_BI/)**
+    * *Resumo:* Conexão com diferentes fontes de dados, tratamento no Power Query e conceitos de relacionamentos.
+* **[Aula 06 - Visuais e Fórmulas DAX](./Módulo_03_Power_BI/)**
+    * *Resumo:* Criação de métricas básicas em DAX e montagem de layouts de dashboards interativos.
 ---
 
 ## 🖼️ Como os Prints Estão Organizados?
@@ -58,6 +69,7 @@ Para manter a leitura fluida, as explicações visuais e capturas de tela foram 
 
 1. Para os arquivos de Excel (`.xlsx`), basta fazer o download e abrir no seu leitor de planilhas.
 2. Para os notebooks Python (`.ipynb`), você pode:
+3. **Power BI (`.pbix`):** É necessário ter o *Power BI Desktop* instalado na sua máquina para abrir o arquivo de projeto. (Caso tenha publicado o relatório, você pode adicionar o link direto aqui).
    * Fazer o download do arquivo.
    * Acessar o [Google Colab](https://colab.research.google.com/).
    * Ir em `Upload` e selecionar o arquivo desejado.
