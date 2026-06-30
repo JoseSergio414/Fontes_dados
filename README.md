@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi criado para documentar todo o meu aprendizado prático ao longo da disciplina da faculdade, reunindo anotações, códigos, planilhas e capturas de tela das aulas.
 
+[![Apresentação Pessoal](https://img.shields.io/badge/VER_APRESENTAÇÃO_PESSOAL_PROFISSIONAL-E3000F?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/JoseSergio414/Fontes_dados/blob/main/M%C3%B3dulo_01_Excel/Minha%20Jornada%20Acad%C3%AAmica%20e%20Profissional.pdf)
+
 ---
 
 ## 📂 Estrutura do Repositório
