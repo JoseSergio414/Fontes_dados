@@ -1,4 +1,50 @@
-# Fontes_dados
+# 📊 Fontes de Dados e Análises
+
+[![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)]()
+[![Tema](https://img.shields.io/badge/Tema-An%C3%A1lise_de_Dados-blue?style=for-the-badge)]()
+
+## 📝 Sobre o Projeto
+
+Este repositório tem como objetivo, organizar e documentar diferentes bases de dados e arquivos base utilizados para [explicar aqui o objetivo: estudos, análises estatísticas, projetos de Power BI, etc.]. 
+
+A estruturação destes dados visa facilitar a consulta e garantir a integridade das informações para futuras tomadas de decisão e desenvolvimentos.
+
+## 📂 Estrutura do Repositório
+
+Para manter a organização, os arquivos foram separados da seguinte forma:
+
+- **`/Documentos` (ou o nome da pasta que você criou):** Contém todos os arquivos originais (planilhas, PDFs, relatórios em texto).
+- **`README.md`:** Documentação principal do repositório.
+
+## 🔎 Descrição dos Dados (Opcional, mas muito profissional)
+
+Abaixo está um breve resumo do que cada arquivo principal contém:
+
+* **Arquivo 1 (ex: `vendas_2023.csv`):** Base de dados contendo o registro histórico de vendas...
+* **Arquivo 2 (ex: `relatorio_tecnico.pdf`):** Documento detalhando as métricas utilizadas...
+
+## 🚀 Como Utilizar
+
+Se você deseja clonar ou baixar este repositório para analisar os dados:
+
+1. Faça o download da pasta `/Documentos`.
+2. [Adicione qualquer instrução específica, como "necessário ter o Excel instalado" ou "os dados estão em formato CSV para uso em Python"].
+
+---
+*Projeto mantido por [Seu Nome/José Sérgio].*
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Atividade 1: Apresentação em grupo no Canva, falando um pouco da minha vida profissional e particular e um mapa mental sobre o que eu acho do curso de Gestão da Produção Industrial
 Vida profissional
 <img width="1153" height="648" alt="Captura de tela 2025-10-31 004630" src="https://github.com/user-attachments/assets/f5655317-ff3f-4d8c-a483-582b36336d52" />
@@ -77,40 +123,6 @@ https://github.com/user-attachments/assets/bba89474-d50d-4224-bb0c-e161f8e6a9cc
 
 
 
-# 📊 Fontes de Dados e Análises
-
-[![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)]()
-[![Tema](https://img.shields.io/badge/Tema-An%C3%A1lise_de_Dados-blue?style=for-the-badge)]()
-
-## 📝 Sobre o Projeto
-
-Este repositório tem como objetivo centralizar, organizar e documentar diferentes bases de dados e arquivos base utilizados para [explicar aqui o objetivo: estudos, análises estatísticas, projetos de Power BI, etc.]. 
-
-A estruturação destes dados visa facilitar a consulta e garantir a integridade das informações para futuras tomadas de decisão e desenvolvimentos.
-
-## 📂 Estrutura do Repositório
-
-Para manter a organização, os arquivos foram separados da seguinte forma:
-
-- **`/Documentos` (ou o nome da pasta que você criou):** Contém todos os arquivos originais (planilhas, PDFs, relatórios em texto).
-- **`README.md`:** Documentação principal do repositório.
-
-## 🔎 Descrição dos Dados (Opcional, mas muito profissional)
-
-Abaixo está um breve resumo do que cada arquivo principal contém:
-
-* **Arquivo 1 (ex: `vendas_2023.csv`):** Base de dados contendo o registro histórico de vendas...
-* **Arquivo 2 (ex: `relatorio_tecnico.pdf`):** Documento detalhando as métricas utilizadas...
-
-## 🚀 Como Utilizar
-
-Se você deseja clonar ou baixar este repositório para analisar os dados:
-
-1. Faça o download da pasta `/Documentos`.
-2. [Adicione qualquer instrução específica, como "necessário ter o Excel instalado" ou "os dados estão em formato CSV para uso em Python"].
-
----
-*Projeto mantido por [Seu Nome/José Sérgio].*
 
 
 
