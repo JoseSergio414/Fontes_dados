@@ -1,4 +1,4 @@
-# 📊 Análise de Dados: Excel, Python e Google Colab
+# 📊 Análise de Dados: Excel, Power BI, Python e Google Colab
 
 Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi criado para documentar todo o meu aprendizado prático ao longo da disciplina da faculdade, reunindo anotações, códigos, planilhas e capturas de tela das aulas.
 
