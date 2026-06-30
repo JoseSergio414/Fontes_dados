@@ -3,6 +3,19 @@
 Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi criado para documentar todo o meu aprendizado prático ao longo da disciplina da faculdade, reunindo anotações, códigos, planilhas e capturas de tela das aulas.
 
 ---
+## 📂 Estrutura do Repositório
+
+```text
+├── README.md (Guia principal)
+├── Módulo_01_Excel/
+│   ├── Aulas/ (Planilhas, exercícios)
+│   └── Imagens/ (Prints explicativos do módulo)
+├── Módulo_02_Python_Colab/
+│   ├── Notebooks/ (.ipynb das aulas)
+│   └── Imagens/
+└── PROJETO_FINAL/ (Se houver)
+
+---
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
 
