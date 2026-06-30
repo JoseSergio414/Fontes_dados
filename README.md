@@ -1,39 +1,53 @@
-# 📊 Fontes de Dados e Análises
+# 📊 Análise de Dados: Excel, Python e Google Colab
 
-[![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)]()
-[![Tema](https://img.shields.io/badge/Tema-An%C3%A1lise_de_Dados-blue?style=for-the-badge)]()
-
-## 📝 Sobre o Projeto
-
-Este repositório tem como objetivo, organizar e documentar diferentes bases de dados e arquivos base utilizados para [explicar aqui o objetivo: estudos, análises estatísticas, projetos de Power BI, etc.]. 
-
-A estruturação destes dados visa facilitar a consulta e garantir a integridade das informações para futuras tomadas de decisão e desenvolvimentos.
-
-## 📂 Estrutura do Repositório
-
-Para manter a organização, os arquivos foram separados da seguinte forma:
-
-- **`/Documentos` (ou o nome da pasta que você criou):** Contém todos os arquivos originais (planilhas, PDFs, relatórios em texto).
-- **`README.md`:** Documentação principal do repositório.
-
-## 🔎 Descrição dos Dados (Opcional, mas muito profissional)
-
-Abaixo está um breve resumo do que cada arquivo principal contém:
-
-* **Arquivo 1 (ex: `vendas_2023.csv`):** Base de dados contendo o registro histórico de vendas...
-* **Arquivo 2 (ex: `relatorio_tecnico.pdf`):** Documento detalhando as métricas utilizadas...
-
-## 🚀 Como Utilizar
-
-Se você deseja clonar ou baixar este repositório para analisar os dados:
-
-1. Faça o download da pasta `/Documentos`.
-2. [Adicione qualquer instrução específica, como "necessário ter o Excel instalado" ou "os dados estão em formato CSV para uso em Python"].
+Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi criado para documentar todo o meu aprendizado prático ao longo da disciplina da faculdade, reunindo anotações, códigos, planilhas e capturas de tela das aulas.
 
 ---
-*Projeto mantido por [Seu Nome/José Sérgio].*
 
+## 🚀 Tecnologias e Ferramentas Utilizadas
 
+* **Microsoft Excel / Google Sheets:** Limpeza de dados, tabelas dinâmicas e fórmulas essenciais.
+* **Python:** Linguagem foco para manipulação e análise de dados.
+* **Google Colab:** Ambiente em nuvem para execução dos Notebooks Python.
+* **Bibliotecas Python:** (Ex: Pandas, NumPy, Matplotlib, Seaborn — *ajuste conforme o que usou*).
+
+---
+
+## 📚 Cronograma de Aulas e Conteúdos
+
+Escolha a forma que preferir para navegar pelos conteúdos:
+
+### 🟩 Módulo 1: Excel Aplicado à Análise de Dados
+Nesta etapa inicial, o foco foi entender as estruturas de dados, realizar limpezas e criar visualizações rápidas.
+
+* **[Aula 01 - Introdução e Fórmulas Básicas](./Módulo_01_Excel/)**
+    * *Resumo:* Conceito de análise, PROCV, SE e formatação condicional.
+* **[Aula 02 - Tabelas Dinâmicas e Gráficos](./Módulo_01_Excel/)**
+    * *Resumo:* Criação de dashboards simples e consolidação de dados.
+
+### 🟦 Módulo 2: Python e Google Colab
+Transição das planilhas para a programação, utilizando o Google Colab para criar análises automatizadas e gráficos mais complexos.
+
+* **[Aula 03 - Primeiros Passos no Colab](./Módulo_02_Python_Colab/)**
+    * *Resumo:* Variáveis, listas e estruturas de repetição em Python.
+* **[Aula 04 - Manipulação de Dados com Pandas](./Módulo_02_Python_Colab/)**
+    * *Resumo:* Importação de bases de dados (CSV/Excel) e tratamento de dados nulos.
+
+---
+
+## 🖼️ Como os Prints Estão Organizados?
+
+Para manter a leitura fluida, as explicações visuais e capturas de tela foram divididas dentro das pastas de cada respectivo módulo. Caso queira ver o passo a passo visual de uma aula específica, basta acessar a pasta do módulo e abrir o arquivo de anotações correspondente.
+
+---
+
+## 🛠️ Como Executar os Códigos deste Repositório
+
+1. Para os arquivos de Excel (`.xlsx`), basta fazer o download e abrir no seu leitor de planilhas.
+2. Para os notebooks Python (`.ipynb`), você pode:
+   * Fazer o download do arquivo.
+   * Acessar o [Google Colab](https://colab.research.google.com/).
+   * Ir em `Upload` e selecionar o arquivo desejado.
 
 
 
