@@ -52,19 +52,16 @@ Nesta etapa inicial, o foco foi entender as estruturas de dados, realizar limpez
 
 Foco na transformação de dados brutos em relatórios interativos e visuais dinâmicos para a tomada de decisão.
 
-* **[Aula 05 - Importação de Dados e Modelagem](./Módulo_03_Power_BI/)**
-    * *Resumo:* Conexão com diferentes fontes de dados, tratamento no Power Query e conceitos de relacionamentos.
-* **[Aula 06 - Visuais e Fórmulas DAX](./Módulo_03_Power_BI/)**
-    * *Resumo:* Criação de métricas básicas em DAX e montagem de layouts de dashboards interativos.
+* **[Atividades - Importação, Dados e Modelagem, Visuais e Fórmulas DAX](https://github.com/JoseSergio414/Fontes_dados/tree/main/M%C3%B3dulo_02_Power_BI)**
+    * *Resumo:* Conexão com diferentes fontes de dados, tratamento no Power Query, conceitos de relacionamentos, Criação de métricas básicas em DAX e montagem de layouts de dashboards interativos.
 
 ### 🟦 Módulo 3: Python e Google Colab
 
 Transição das planilhas para a programação, utilizando o Google Colab para criar análises automatizadas e gráficos mais complexos.
 
-* **[Aula 03 - Primeiros Passos no Colab](./Módulo_02_Python_Colab/)**
-    * *Resumo:* Variáveis, listas e estruturas de repetição em Python.
-* **[Aula 04 - Manipulação de Dados com Pandas](./Módulo_02_Python_Colab/)**
-    * *Resumo:* Importação de bases de dados (CSV/Excel) e tratamento de dados nulos.
+* **[Atividades - Primeiros Passos no Colab, Manipulação de Dados com Pandas](./Módulo_02_Python_Colab/)**
+    * *Resumo:* Conceitos básicos de Python, Importação de bases de dados (CSV/Excel) e tratamento de dados nulos.
+
 ---
 
 ## 🖼️ Como os Prints Estão Organizados?
