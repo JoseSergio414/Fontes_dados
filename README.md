@@ -20,8 +20,8 @@ Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi 
 │   ├── Notebooks/ (.ipynb das aulas)
 │   └── Imagens/
 └── PROJETO_FINAL/ (Se houver)
-│   ├── Dashboards/ (Arquivos .pbix ou links)
-│   └── Imagens/ (Prints dos relatórios)
+    ├── Dashboards/ (Arquivos .pbix ou links)
+    └── Imagens/ (Prints dos relatórios)
 
 
 
