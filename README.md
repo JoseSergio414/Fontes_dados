@@ -74,6 +74,10 @@ Transição das planilhas para a programação, utilizando o Google Colab para c
 * **[Atividades - Primeiros Passos no Colab, Manipulação de Dados com Pandas](./Módulo_03_Python_Colab/)**
     * *Resumo:* Conceitos básicos de Python, Importação de bases de dados (CSV/Excel) e tratamento de dados nulos.
 
+---
+
+**"Atividades desenvolvidas durante o curso de Gestão da Produção Industrial."**
+
 
 
 
