@@ -19,11 +19,9 @@ Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi 
 ├── Módulo_03_Python_Colab/
 │   ├── Notebooks/ (.ipynb das aulas)
 │   └── Imagens/ (Prints explicativos do módulo)
-└── PROJETO_FINAL/
-    ├── Dashboards/ (Arquivos .pbix ou links)
-    └── Imagens/ (Prints explicativos do módulo)
-
-
+├── PROJETO_FINAL/
+│   ├── Dashboards/ (Arquivos .pbix ou links)
+└── └── Imagens/ (Prints explicativos do módulo)
 ```
 ---
 
