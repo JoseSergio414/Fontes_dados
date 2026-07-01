@@ -11,7 +11,7 @@ Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi 
 ```text
 ├── README.md (Guia principal)
 ├── Módulo_01_Excel/
-│   ├── Aulas/ (Planilhas, exercícios)
+│   ├── Atividades/ (Planilhas, exercícios)
 │   └── Imagens/ (Prints explicativos do módulo)
 ├── Módulo_02_Power_BI/
 │   ├── Dashboards/ (Arquivos .pbix ou links)
