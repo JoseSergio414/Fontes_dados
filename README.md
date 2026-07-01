@@ -64,14 +64,14 @@ Nesta etapa inicial, o foco foi entender as estruturas de dados, realizar limpez
 
 Foco na transformação de dados brutos em relatórios interativos e visuais dinâmicos para a tomada de decisão.
 
-* **[Atividades - Importação, Dados e Modelagem, Visuais e Fórmulas DAX](https://github.com/JoseSergio414/Fontes_dados/tree/main/M%C3%B3dulo_02_Power_BI)**
+* **[Atividades - Importação, Dados e Modelagem, Visuais e Fórmulas DAX](./Módulo_02_Power_BI/)**
     * *Resumo:* Conexão com diferentes fontes de dados, tratamento no Power Query, conceitos de relacionamentos, Criação de métricas básicas em DAX e montagem de layouts de dashboards interativos.
 
 ### 🟦 Módulo 3: Python e Google Colab
 
 Transição das planilhas para a programação, utilizando o Google Colab para criar análises automatizadas e gráficos mais complexos.
 
-* **[Atividades - Primeiros Passos no Colab, Manipulação de Dados com Pandas](https://github.com/JoseSergio414/Fontes_dados/tree/main/M%C3%B3dulo_03_Python_Colab)**
+* **[Atividades - Primeiros Passos no Colab, Manipulação de Dados com Pandas](./Módulo_03_Python_Colab/)**
     * *Resumo:* Conceitos básicos de Python, Importação de bases de dados (CSV/Excel) e tratamento de dados nulos.
 
 
