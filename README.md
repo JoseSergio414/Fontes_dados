@@ -57,7 +57,7 @@ Escolha a forma que preferir para navegar pelos conteúdos:
 ### 🟩 Módulo 1: Excel Aplicado à Análise de Dados
 Nesta etapa inicial, o foco foi entender as estruturas de dados, realizar limpezas e criar visualizações rápidas.
 
-* **[Atividades - Apresentação em grupo, Introdução e Fórmulas Básicas, Tabelas Dinâmicas e Gráficos](https://github.com/JoseSergio414/Fontes_dados/tree/main/M%C3%B3dulo_01_Excel)**
+* **[Atividades - Apresentação em grupo, Introdução e Fórmulas Básicas, Tabelas Dinâmicas e Gráficos](./Módulo_01_Excel/)**
     * *Resumo:* Conceito de análise,formulas: maximose,cont valores, corresponde, indice, formatação condicional, Criação de gráficos simples e consolidação de dados.
 
 ### 🟨 Módulo 2: Business Intelligence com Power BI
