@@ -15,14 +15,13 @@ Bem-vindo ao meu repositório de estudos de Análise de Dados! Este espaço foi 
 │   └── Imagens/ (Prints explicativos do módulo)
 ├── Módulo_02_Power_BI/
 │   ├── Dashboards/ (Arquivos .pbix ou links)
-│   └── Imagens/ (Prints dos relatórios)
+│   └── Imagens/ (Prints explicativos do módulo)
 ├── Módulo_03_Python_Colab/
 │   ├── Notebooks/ (.ipynb das aulas)
-│   └── Imagens/
-└── PROJETO_FINAL/ (Se houver)
+│   └── Imagens/ (Prints explicativos do módulo)
+└── PROJETO_FINAL/
     ├── Dashboards/ (Arquivos .pbix ou links)
-    └── Imagens/ (Prints dos relatórios)
-
+    └── Imagens/ (Prints explicativos do módulo)
 
 
 ```
