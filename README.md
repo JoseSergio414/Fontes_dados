@@ -60,7 +60,7 @@ Escolha a forma que preferir para navegar pelos conteúdos:
 Nesta etapa inicial, o foco foi entender as estruturas de dados, realizar limpezas e criar visualizações rápidas.
 
 * **[Atividades - Apresentação em grupo, Introdução e Fórmulas Básicas, Tabelas Dinâmicas e Gráficos](./Módulo_01_Excel/)**
-    * *Resumo:* Conceito de análise,formulas: maximose,cont valores, corresponde, indice, formatação condicional, Criação de gráficos simples e consolidação de dados.
+    * *Resumo:* Conceito de análise,formulas: maximose,cont.valores, corresponde, indice, formatação condicional, Criação de gráficos simples e consolidação de dados.
 
 ### 🟨 Módulo 2: Business Intelligence com Power BI
 
