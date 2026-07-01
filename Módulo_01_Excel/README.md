@@ -9,7 +9,7 @@ Fórmula =cont.valores()
 Criando Gráfico e tabela Dinâmica
 <img width="1890" height="977" alt="Atividade_05_09_2025" src="https://github.com/user-attachments/assets/9f13979a-8aa1-4513-a22f-edd313fb674c" />
 
-### Atividade 3:Análise de V.T.I na Planilha do Excel utilizando as fórmulas =somases, =corresp, =índice, =contvalores e =máximoses, montagem do gráfico e tabela dinâmica
+### Atividade 3:Análise de V.T.I na Planilha do Excel utilizando as fórmulas =somases, =corresp, =índice, =cont.valores e =máximoses, montagem do gráfico e tabela dinâmica
 Fórmulas
 ![Imagem do WhatsApp de 2025-09-19 à(s) 01 36 07_f1ca1148](https://github.com/user-attachments/assets/a984449c-c2ea-4169-8c47-d2cb370853d9)
 Gráfico e tabela dinâmica
